@@ -1,2 +1,2 @@
 # Code from PoliTo classes
-Collection of pieces of code from Polito classes
+Collection of code pieces from Polito classes
