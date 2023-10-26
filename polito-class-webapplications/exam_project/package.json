@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "dayjs": "^1.11.8",
+    "experss": "^0.0.1-security",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.22",
+    "react-bootstrap": "^2.7.4",
+    "react-router-dom": "^6.13.0",
+    "sqlite3": "^5.1.6"
+  }
+}
